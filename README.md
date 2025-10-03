@@ -44,7 +44,7 @@ The work critically evaluates Microsoft Teams’ positioning within Microsoft’
 
 ## 🚀 Roadmap  
 
-- **v1.0.0:** Initial release – full research paper and analysis  
+- **v1.0.0:** Initial release - full research paper and analysis  
 - **v1.1.0:** Add visual executive summary (infographics, strategy canvas)  
 - **v2.0.0:** Extend with benchmarking of competitors (Slack, Zoom, Notion)  
 
