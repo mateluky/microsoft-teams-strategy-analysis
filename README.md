@@ -1,6 +1,6 @@
 # 📘 Microsoft Teams: Strategic Management & Innovation Analysis  
 
-*(Master’s in Strategic Management & Entrepreneurship – Individual Research Project)*  
+*(Course: Strategic Management & Entrepreneurship – Individual Research Project)*  
 
 **Author:**  
 - Máté Lukács  
